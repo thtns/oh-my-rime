@@ -2,5 +2,13 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	0
+#@/tick	9
 #@/user_id	5c7bd513-b581-4b5c-b06b-c0a120567e25
+chi 	吃	c=1 d=1 t=3
+ha ha ha 	哈哈哈	c=1 d=1 t=9
+le 	了	c=1 d=1 t=8
+na jiu bu 	那就不	c=1 d=1 t=6
+shi 	是	c=1 d=1 t=5
+wo 	我	c=2 d=1.99501 t=2
+zhen de 	真的	c=1 d=1 t=4
+zhi dao 	知道	c=1 d=1 t=7

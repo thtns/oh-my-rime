@@ -1,0 +1,25 @@
+# Rime user dictionary
+#@/db_name	custom_dict_en
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	25
+#@/user_id	5c7bd513-b581-4b5c-b06b-c0a120567e25
+administrator 	administrator	c=3 d=2.98506 t=16
+auth 	auth	c=1 d=1 t=24
+bug 	bug	c=2 d=1.98511 t=5
+crud 	crud	c=1 d=1 t=20
+delete 	delete	c=1 d=1 t=9
+duck 	duck	c=1 d=1 t=4
+favas 	favas	c=1 d=1 t=10
+feature 	feature	c=1 d=1 t=18
+find 	find	c=1 d=1 t=1
+git 	git	c=1 d=1 t=3
+java 	Java	c=2 d=1.95123 t=21
+ok 	OK	c=5 d=4.92112 t=19
+sql 	SQL	c=2 d=1.95123 t=18
+touch 	touch	c=1 d=1 t=3
+ui 	UI	c=1 d=1 t=6
+url 	URL	c=2 d=1.97531 t=25
+wet 	wet	c=1 d=1 t=7
+windows 	windows	c=1 d=1 t=23
+zero 	zero	c=1 d=1 t=22
