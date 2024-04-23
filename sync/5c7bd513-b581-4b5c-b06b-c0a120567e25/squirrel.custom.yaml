@@ -34,7 +34,7 @@ patch:
   "style/font_face": "PingFang"
   "style/font_point": 16
   "style/label_font_point": 12 # 候选词数字大小
-  "style/horizontal": true # 横向展示
+  "style/horizontal": false # 横向展示
   "style/inline_preedit": false # 内嵌预编辑
   "style/corner_radius": 15 # 窗口圆角半径
   "style/layout/border": 0 # 窗口边界高度，大于圆角半径才有效果

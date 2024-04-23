@@ -6,4 +6,6 @@ use_preset_vocabulary: true
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
 import_tables:
   - easy_en # Easy-en基础
+  - rime-ice/en_dicts/en # Easy-en基础
+  - rime-ice/en_dicts/en_ext # Easy-en基础
 ...

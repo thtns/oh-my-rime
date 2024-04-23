@@ -11,4 +11,10 @@ import_tables:
   - dicts/se_words # 互联网网络词汇
   - dicts/luna_pinyin.biaoqing # 表情
   - dicts/luna_pinyin.emoji # emoji Ext
+  - rime-ice/cn_dicts/41448 # 字表
+  - rime-ice/cn_dicts/8105 # 字表
+  - rime-ice/cn_dicts/base # 基础词库
+  - rime-ice/cn_dicts/ext # 扩展词库
+  - rime-ice/cn_dicts/others # 扩展词库
+  - rime-ice/cn_dicts/tencent # 扩展词库
 ...
